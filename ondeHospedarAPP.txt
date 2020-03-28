@@ -1,0 +1,8 @@
+LUGARES PARA HOSPEDAR APLICAÇÕES:
+
+-> Falando de Node:
+Heroku;
+DigitalOcean;
+
+-> Falando de FrontEnd:
+netlify
